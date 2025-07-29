@@ -77,7 +77,7 @@ Deliverables included:
 
 ##  Dashboard Preview
 
-![Customer Behaviour Dashboard](Screenshots/Customer%20Behaviour%20Dashboard%20Screenshot.png)
+![Customer Behaviour Dashboard](Screenshots/updated-dashboard.png)
 
 This Power BI dashboard allows for:
 - Interactive filtering by category, city, and customer type
